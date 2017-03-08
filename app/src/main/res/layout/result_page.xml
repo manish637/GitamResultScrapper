@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:http="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="zero.grs.GitamResult"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GITAM UNIVERSITY"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+        <TextView
+            android:id="@+id/college_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="college type "
+            android:textColor="@android:color/black"/>
+            <TextView
+                android:id="@+id/examination"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Examination"
+                android:textColor="@android:color/black"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp">
+        <TextView
+            android:id="@+id/semtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Semester  "
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/semester"
+            android:layout_toRightOf="@+id/semtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="III "
+            android:textColor="@android:color/black"/>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true">
+        <TextView
+            android:id="@+id/month"
+            android:layout_alignParentLeft="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:text="Month "/>
+        <TextView
+            android:id="@+id/year"
+            android:layout_toRightOf="@id/month"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:text="year"/>
+        </RelativeLayout>
+
+    </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name : "
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textSize="15sp"
+            android:textColor="@android:color/black"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Branch : "
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/branch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Branch : "
+            android:textColor="@android:color/black"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Roll No : "
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/rollno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ROLL NUMBER"
+            android:textColor="@android:color/black"/>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp">
+            <TextView
+                android:id="@+id/sgpatext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SGPA :  "
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:id="@+id/sgpa"
+                android:layout_toRightOf="@+id/sgpatext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0.0"
+                android:textSize="15sp"
+                android:textColor="@android:color/black"/>
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true">
+                <TextView
+                    android:id="@+id/cgpatext"
+                    android:layout_alignParentLeft="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/black"
+                    android:text="CGPA :  "/>
+                <TextView
+                    android:id="@+id/cgpa"
+                    android:layout_toRightOf="@id/cgpatext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/black"
+                    android:textSize="15sp"
+                    android:text="0.0"/>
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:id="@+id/resultView"
+        xmlns:tools="http://schemas.android.com/tools"
+            tools:context="zero.grs.GitamResult">
+    </ListView>
+
+
+
+</LinearLayout>

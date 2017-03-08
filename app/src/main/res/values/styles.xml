@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="MyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name = "colorPrimary">#009688</item>
+        <item name = "colorPrimaryDark">#004d40</item>
+        <item name = "colorAccent">#00695c</item>
+    </style>
+    <style name="Home">
+        <item name = "colorPrimary">#795548</item>
+        <item name = "colorPrimaryDark">#3e2723</item>
+        <item name = "colorAccent">#a1887f</item>
+    </style>
+    <style name="spinnerDropDownItemStyle">
+        <item name="android:padding">0dp</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="AppTheme.NoTitle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_29f4a6280219d134ac7953c27375a30ac5b2f833\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_f3160bf338f353448e558f2bc05328e8d59cf96c\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_6c89514ef903b897400d9902ab83726e2c374fa5\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_01a5e7afa5fef1b4dec6a33c20d37e7494a29555\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_b25b6b484126bd4f3868ff3e7d19502d27ceef07\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_ca67ecf1983aab0f96007c302d60f7598f112304\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ce52c592c5aa360ff6e50dc60f88f05621c5d9fd">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_058e6af61618e8d03a60b48db6838a4a85647509\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_f73e4c24e2d75f9adaad9895f4a4aeae3104792d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_5ada60f9d26dc4027294a2b8cbce6bfe31c1cec5\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="61bed0205a78502f6c4e19cb0ec594da886bf9a9">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_041f9322f700946222c2d77d2fff9f0267cb520d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\libs\jsoup-1.10.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.1_e6dd07f7e082b434786db2992d2dac81d9296a48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ManishKumar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_86fda397d4a048deb40677629b45e8b2bd605bf4\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Development\GRS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\Android Development\GRS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_c8b7dfd19b7bcca65a31bd6e4feab95f6dff6273\classes.dex" />
+    </item>
+
+</items>
